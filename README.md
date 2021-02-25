@@ -56,5 +56,6 @@ end
 ## Testing
 
 - Install [chef workstation](https://docs.chef.io/workstation/install_workstation/)
+- Create a `databags` folder containing your testing secrets
 - `kitchen converge` will build the resources
 - `kitchen login` will login to the instance where you can verify that the secret contents have been written to the files.

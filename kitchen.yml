@@ -29,3 +29,4 @@ suites:
       inspec_tests:
         - test/integration/default
     attributes:
+    data_bags_path: "databags" 

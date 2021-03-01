@@ -1,4 +1,4 @@
-# tss_chef cookbook
+# TSS Chef Cookbook
 
 Provides a new resources: `tss_secret`, as well as a sample cookbook. This resource allows integration into Thycotic's TSS.
 
